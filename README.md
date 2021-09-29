@@ -4,7 +4,7 @@ Portafolio personal
 
 ## Despliegue 📦
 
-[Portafolio](https://jhon-h.github.io/Portafolio)
+[Portafolio](https://jhon-h.github.io/portafolio)
 
 ## Construido con 🛠️
 
